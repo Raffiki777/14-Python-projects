@@ -1,4 +1,5 @@
 def show_balance(balance):
+    print("Welcome to Malatjie LTD Bank...")
     print(f"Your current balance is R{balance:.2f}")
 
     if balance < 100:
